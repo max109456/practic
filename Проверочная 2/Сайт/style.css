@@ -1,0 +1,150 @@
+.head {
+    position: absolute;
+width: 100%;
+height: 115px;
+left: 0px;
+top: 0px;
+
+background: #D84D4D;
+}
+
+.name {
+width: 155px;
+height: 49px;
+padding-left: 50%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+
+
+color: #000000;
+}
+
+.logo {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 47px;
+    top: 17px;
+    border-radius: 50%;
+    background: #ffff;
+}
+
+.logopng {
+    position: absolute;
+width: 53px;
+height: 48px;
+left: 13px;
+top: 17px;
+}
+
+.order {
+    position: absolute;
+width: 164px;
+height: 20px;
+left: 92%;
+top: 33px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFEA2F;
+text-decoration: none;
+}
+
+.line1 {
+position: absolute;
+width: 80%;
+height: 1844px;
+left: 10%;
+
+background: #FF6565;
+}
+
+.line2 {
+    position: absolute;
+    width: 52%;
+    height: 1844px;
+    left: 25%;
+    top: 115px;
+    
+    background: #000000;
+}
+
+.search {
+    position: absolute;
+width: 400px;
+height: 30px;
+left: 35%;
+top: 200px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.search input {
+    width: 100%;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: #ffffff;
+    border: none;
+    color: #ffffff;
+  }
+  .search button {
+    position: absolute; 
+    top: 0;
+    width: 60px;
+    height: 42px;
+    left: 90%;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  .search button:before {
+    content: url(image/search.png);
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #ffffff;
+  }
+
+.popular_films_text {
+    position: absolute;
+width: 341px;
+height: 27px;
+left: 100px;
+top: 300px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+color: #FFFFFF;
+}
+
+.popular_films {
+    position: absolute;
+width: 100%;
+height: 500px;
+top: 360px;
+
+background: #D84D4D;
+}
+
+.batman {
+    position: absolute;
+width: 240px;
+height: 330px;
+left: 100px;
+top: 10%;
+bottom: 5%;
+}
